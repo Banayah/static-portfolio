@@ -1,4 +1,4 @@
-# William Simmons - Fullstack Web Developer Portfolio
+# William Simmons - Fullstack Web Developer Static Portfolio
 
 This is a personal static portfolio website I created to showcase my skills and projects as a fullstack web developer. It highlights my experience, current projects, and capabilities in web development.
 
